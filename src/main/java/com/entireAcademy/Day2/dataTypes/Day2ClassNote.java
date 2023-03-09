@@ -1,6 +1,6 @@
 package com.entireAcademy.Day2.dataTypes;
 
-public class Day2Note {
+public class Day2ClassNote {
     public static void main(String[] args) {
 //        byte num = 20;
 //        int wholeNumber = 200000;
