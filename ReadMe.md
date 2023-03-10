@@ -1,6 +1,6 @@
 ## Read Me
 
-### Fork this repo before
+### Fork this repo
 - Once you are done forking, and once you have your own repo
 - Now open your terminal or GIT Bash
 - type `git clone` and paste your forked repo.
