@@ -1,4 +1,4 @@
-package com.entireAcademy.ObjectAndString;
+package com.entireAcademy.Day6.ObjectAndString;
 
 import com.entireAcademy.Day6.ObjectAndString.StringExercise;
 import org.junit.*;
