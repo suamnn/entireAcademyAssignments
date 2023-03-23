@@ -122,10 +122,7 @@ public class Main {
   }
 }
 ```
-# Java Map: A Beginner's Guide for 5th Graders
-
-Hello, young coders! Today, we'll be talking about another fascinating programming concept called "Java Map." So get ready to learn something new in the exciting world of Java programming!
-
+## Java Map:
 ## What is a Java Map?
 
 In Java, a Map is a collection that stores pairs of elements called "keys" and "values." The keys are unique, meaning each key can only appear once in the Map. The values can be anything you want — numbers, text, or even other collections!
