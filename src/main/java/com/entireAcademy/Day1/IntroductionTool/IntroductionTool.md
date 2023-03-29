@@ -23,3 +23,10 @@
   - Once Homebrew is installed
   - type this: `brew install git`
   - Once it's done type this to check the latest version: `git --version`
+
+## Now go to github.com and signup if you don't have an account
+- Once you signed up on github
+- You will need to configure your git
+
+`  git config --global user.name "Emma Paris"
+   git config --global user.email "eparis@atlassian.com"`
