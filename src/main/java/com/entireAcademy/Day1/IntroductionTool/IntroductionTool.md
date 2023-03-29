@@ -1,6 +1,6 @@
 # Welcome to Java Course 2023
 ### Today Plan
-1. Sign up on Github.com 
+1. Sign up on GitHub.com 
 2. Download git bash 
 3. Navigate files using the UI (Windows Explorer)
 4. Find and open a command line application (Git BASH)
@@ -54,6 +54,7 @@ For Window please use GIT BASH and for Mac Use Terminal.
   *`ls` means list, and `pwd` means print working directory.*
 
 ***Sometimes we need to change the computer's files and folders.***
+
 ## Here are some ways we can do it:
 - To make a new folder, we can use the command `mkdir <dirName>`.
 - To delete an empty folder, we use the command `rmdir <directoryname>`.
@@ -84,6 +85,6 @@ For Window please use GIT BASH and for Mac Use Terminal.
 ## How to download IntelliJ in Mac and window
 - Go to this link: [https://www.jetbrains.com/idea/download/](https://www.jetbrains.com/idea/download/)
 - For window, choose the Community edition and click on download
-- For mac, choose mac and click on download
+- For mac, choose the Community edition and click on download
 
 ***To set up java 17, and how to clone this project we will go over in the Video***
