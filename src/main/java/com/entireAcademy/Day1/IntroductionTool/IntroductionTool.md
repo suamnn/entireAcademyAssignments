@@ -32,7 +32,7 @@
   - type this: `brew install git`
   - Once it's done type this to check the latest version: `git --version`
 
-## Assume you have github account now
+## Assume you have GitHub account now
 - You will need to configure your git
 - First: `git config --global user.name "Emma Paris"`
 - second: `git config --global user.email "eparis@atlassian.com"`
