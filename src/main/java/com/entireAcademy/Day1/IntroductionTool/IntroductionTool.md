@@ -27,6 +27,5 @@
 ## Now go to github.com and signup if you don't have an account
 - Once you signed up on github
 - You will need to configure your git
-
-`  git config --global user.name "Emma Paris"
-   git config --global user.email "eparis@atlassian.com"`
+- First: `git config --global user.name "Emma Paris"`
+- second: `git config --global user.email "eparis@atlassian.com"`
