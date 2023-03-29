@@ -51,7 +51,7 @@ For Window please use GIT BASH and for Mac Use Terminal.
 - To see what folder you're in, type `pwd` - Print working directory.
 - To see what files are in a folder, type `ls`.
 - These are just short ways to type out longer words: `cd` means change directory,
-  *`ls` means list, and `pwd` means print working directory.*
+  ***`ls` means list, and `pwd` means print working directory.***
 
 ***Sometimes we need to change the computer's files and folders.***
 
@@ -87,4 +87,4 @@ For Window please use GIT BASH and for Mac Use Terminal.
 - For window, choose the Community edition and click on download
 - For mac, choose the Community edition and click on download
 
-***To set up java 17, and how to clone this project we will go over in the Video***
+#### ***To set up java 17, and how to clone this project we will go over in the Video***
