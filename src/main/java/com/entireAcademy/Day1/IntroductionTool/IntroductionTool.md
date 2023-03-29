@@ -9,7 +9,7 @@
 ## How to download Git bash on Window
 - Go to this website: [https://git-scm.com/download/](https://git-scm.com/download/)
 - Chose window from the option
-- ![gitImage.png](gitImage.png)
+- ![gitImage.png](https://github.com/anishniroula1/entireAcademyAssignments/raw/main/src/main/java/com/entireAcademy/Day1/IntroductionTool/gitImage.png)
 - Choose the 64 bit option, as shows in the image
 - Once it asks to save, save it.
 - Double-click on just downloaded file and follow the instruction to finish the installation.
