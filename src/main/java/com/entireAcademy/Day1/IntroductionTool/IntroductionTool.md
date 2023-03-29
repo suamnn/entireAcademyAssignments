@@ -51,9 +51,9 @@ For Window please use GIT BASH and for Mac Use Terminal.
 - To see what folder you're in, type `pwd` - Print working directory.
 - To see what files are in a folder, type `ls`.
 - These are just short ways to type out longer words: `cd` means change directory,
-  ***`ls` means list, and `pwd` means print working directory.***
+  - ***`ls` means list, and `pwd` means print working directory.***
 
-***Sometimes we need to change the computer's files and folders.***
+#### ***Sometimes we need to change the computer's files and folders.***
 
 ## Here are some ways we can do it:
 - To make a new folder, we can use the command `mkdir <dirName>`.
