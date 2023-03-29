@@ -1,10 +1,10 @@
 # Welcome to Java Course 2023
 ### Today Plan
-- Download Git Bash on Window
-- Check if mac already have git
-- Download IntelliJ and Java 17 on both platform
-- Learn basic window command line
-- Learn basic git command line
+1. Download Git Bash on Window
+2. Check if mac already have git
+3. Download IntelliJ and Java 17 on both platform 
+4. Learn basic window command line 
+5. Learn basic git command line
 
 ## How to download Git bash on Window
 - Go to this website: [https://git-scm.com/download/](https://git-scm.com/download/)
