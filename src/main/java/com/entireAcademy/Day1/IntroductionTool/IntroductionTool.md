@@ -12,7 +12,7 @@
 10. Download IntelliJ and Java 17
 11. Git clone project
 
-# Now go to GitHub.com and signup if you don't have an account
+# Now go to [GitHub.com](https://github.com/) and signup if you don't have an account
 
 ## How to download Git bash on Window
 - Go to this website: [https://git-scm.com/download/](https://git-scm.com/download/)
