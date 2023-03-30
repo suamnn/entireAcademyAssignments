@@ -84,6 +84,7 @@ For Window please use GIT BASH and for Mac Use Terminal.
 
 ## How to download IntelliJ in Mac and window
 - Go to this link: [https://www.jetbrains.com/idea/download/](https://www.jetbrains.com/idea/download/)
+- ![image](https://user-images.githubusercontent.com/42947580/228818340-67ff9dfb-e0e5-4f81-8725-e04c279c959d.png)
 - For window, choose the Community edition and click on download
 - For mac, choose the Community edition and click on download
 
