@@ -13,6 +13,7 @@
 - Day 8 - Java Collection Part 2 (Stack, Map and Set)
 - Day 9 - OOP (Object-Oriented programming) Part 1
 - Day 10 - OOP (Object-Oriented programming) Part 2
+- Day 11 - Unit Testing
 
 ### Database (3 weeks)
 - Database (If people are interested)
