@@ -14,6 +14,7 @@
 - Day 9 - OOP (Object-Oriented programming) Part 1
 - Day 10 - OOP (Object-Oriented programming) Part 2
 - Day 11 - Unit Testing
+- Day 12 - File Input and Output
 
 ### Database (3 weeks)
 - Database (If people are interested)
