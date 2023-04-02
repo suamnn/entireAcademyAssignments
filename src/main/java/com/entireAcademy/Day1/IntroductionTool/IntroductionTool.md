@@ -90,5 +90,21 @@ For Window please use GIT BASH and for Mac Use Terminal.
 
 ## Download Java17 on Window
 - Go to this link: [https://www.oracle.com/java/technologies/downloads/#jdk17-windows](https://www.oracle.com/java/technologies/downloads/#jdk17-windows)
+- <img width="1334" alt="Screen Shot 2023-04-02 at 9 22 39 AM" src="https://user-images.githubusercontent.com/42947580/229355542-fd1a27f7-3b92-49b5-885c-401e8c63dd4f.png">
+- Make sure to download the 64 bit that is compactiable with your machine
+- Install the Java 17 by follwing the steps provided by installer
+- ![image](https://user-images.githubusercontent.com/42947580/229355777-e3d5ad3c-fdba-4bc7-8228-94f809ca5fe4.png)
+- ![image](https://user-images.githubusercontent.com/42947580/229355790-a2e6e6ac-5fb1-4b71-8b27-9cbba6acf782.png)
+- ![image](https://user-images.githubusercontent.com/42947580/229355795-394ad85b-54c5-4b97-8304-276a650cf6af.png)
+- ![image](https://user-images.githubusercontent.com/42947580/229355803-218154e7-3f18-458f-9bbc-ef8f75bbf1df.png)
+- Once Java17 is done installing
+- Go to search of your windown and type Environment Variables for your Account
+- Add JAVA_HOME & Path as shown in the below images:
+- ![image](https://user-images.githubusercontent.com/42947580/229355901-b7ae4e27-ae55-46f2-9223-f98ca86a7f9b.png)
+- Now we should have to add Java Path. If the Path variable is already there then simply we can click on the Edit… button > then click the New button to add the path as below image.
+- ![image](https://user-images.githubusercontent.com/42947580/229355944-0072b300-b3d0-4efa-a3ff-896548a7c0bb.png)
+- Now open your git Bash and type `java --version` and you should see the Java 17. 
+***Some time you have close the Git bash and re open again to see changes***
 
-#### ***To set up java 17, and how to clone this project we will go over in the Video***
+## Download Java17 on Mac easy way
+- Watch this video: [https://youtu.be/D-CGuIAANW0](https://youtu.be/D-CGuIAANW0)
