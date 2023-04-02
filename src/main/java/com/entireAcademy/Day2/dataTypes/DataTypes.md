@@ -75,14 +75,6 @@
 | / |      Division       |   int quotient = 5 / 3; |
 | % | Modulo (remainder)  |  int remainder = 5 % 3; |
 
-
-## Test
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| **col 3 is**  | right-aligned | $1600 |
-| col 2 is      | *centered*    |   $12 |
-| zebra stripes | ~~are neat~~  |    $1 |
-
 ## ![](https://lh5.googleusercontent.com/kiHZIeurpgP80e7XSWAWsf-vb2VP31hJC0kZeXRrZjsyBu3YciBtfL3YMepZWhOZVkflxEsrfE-0LQq__o6i7_31XuSPMumjvqsw5kIeXmRDAVj46n66QCFLoNjp4wG3DK4tfpiDqWstuY0FE_dYvkk)
 
 
