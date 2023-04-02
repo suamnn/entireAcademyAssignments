@@ -96,47 +96,45 @@ Source: <https://en.wikipedia.org/wiki/Java_bytecode> 
 7. double - used to store numbers with decimal places, with a greater range and precision than float.
 8. short - used to store small whole numbers, with a smaller range than int but takes up less memory.
 
-**String**:
-
+## String
 In Java, a String is a sequence of characters used to represent text. String is a class in Java, which means that it has its own methods and properties that can be used to manipulate and process text data.
 
 Here are some examples of how to define and use String objects in Java:
-```
+
 // Defining a String variable
 
-String message = "Hello, world!";
+`String message = "Hello, world!";`
 
 // Concatenating two strings
 
-String firstName = "John";
+`String firstName = "John";`
 
-String lastName = "Doe";
+`String lastName = "Doe";`
 
-String fullName = firstName + " " + lastName;
+`String fullName = firstName + " " + lastName;`
 
 // Retrieving the length of a string
 
-String word = "hello";
+`String word = "hello";`
 
-int length = word.length(); // length = 5
+`int length = word.length(); // length = 5`
 
 // Converting a string to uppercase or lowercase
 
-String uppercase = message.toUpperCase();
+`String uppercase = message.toUpperCase();`
 
-String lowercase = message.toLowerCase();
+`String lowercase = message.toLowerCase();`
 
 // Checking if a string contains a certain substring
 
-boolean contains = message.contains("world"); // contains = true
+`boolean contains = message.contains("world"); // contains = true`
 
 // Replacing substrings in a string
 
-String replaced = message.replace("world", "Java");
+`String replaced = message.replace("world", "Java");`
 
 // Splitting a string into an array of substrings
 
-String sentence = "The quick brown fox";
-
-String\[] words = sentence.split(" "); // words = \["The", "quick", "brown", "fox"]
-```
+`String sentence = "The quick brown fox";`
+`String[] words = sentence.split(" ");`
+// words = ["The", "quick", "brown", "fox"];
