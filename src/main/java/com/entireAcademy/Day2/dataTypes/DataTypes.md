@@ -55,14 +55,14 @@
 |               |                                                         |                    |                                                          |                                |
 | ------------- | ------------------------------------------------------- | ------------------ | -------------------------------------------------------- | ------------------------------ |
 | **Data Type** | **Use**                                                 | **Size (in bits)** | **Range**                                                | **Example**                    |
-| byte          | Used to represent small integers                        | 8                  | \-128 to 127                                             | byte age = 25;                 |
-| short         | Used to represent small integers                        | 16                 | \-32,768 to 32,767                                       | short temperature = -10;       |
-| int           | Used to represent integers                              | 32                 | \-2,147,483,648 to 2,147,483,647                         | int population = 1000000;      |
-| long          | Used to represent large integers                        | 64                 | \-9,223,372,036,854,775,808 to 9,223,372,036,854,775,807 | long distance = 150000000000L; |
-| float         | Used to represent decimal numbers with single precision | 32                 | 3.4e-038 to 3.4e+038                                     | float pi = 3.14f;              |
-| double        | Used to represent decimal numbers with double precision | 64                 | 1.7e-308 to 1.7e+308                                     | double height = 1.85;          |
-| boolean       | Used to represent true/false values                     | 1 (not fixed)      | true or false                                            | boolean isTall = true;         |
-| char          | Used to represent a single character                    | 16                 | 0 to 65,535                                              | char letter = 'A';             |
+| `byte`          | Used to represent small integers                        | 8                  | \-128 to 127                                             | byte age = 25;                 |
+| `short`         | Used to represent small integers                        | 16                 | \-32,768 to 32,767                                       | short temperature = -10;       |
+| `int`           | Used to represent integers                              | 32                 | \-2,147,483,648 to 2,147,483,647                         | int population = 1000000;      |
+| `long`          | Used to represent large integers                        | 64                 | \-9,223,372,036,854,775,808 to 9,223,372,036,854,775,807 | long distance = 150000000000L; |
+| `float`         | Used to represent decimal numbers with single precision | 32                 | 3.4e-038 to 3.4e+038                                     | float pi = 3.14f;              |
+| `double`        | Used to represent decimal numbers with double precision | 64                 | 1.7e-308 to 1.7e+308                                     | double height = 1.85;          |
+| `boolean`       | Used to represent true/false values                     | 1 (not fixed)      | true or false                                            | boolean isTall = true;         |
+| `char`          | Used to represent a single character                    | 16                 | 0 to 65,535                                              | char letter = 'A';             |
 
 
 ## Java Operator Types
@@ -70,11 +70,11 @@
 |   |                      |                         |
 |---| -------------------- | ----------------------- |
 | Operator | Use               | Example                 |
-| + | Addition           | int sum = 5 + 3;        |
-| - | Subtraction        | int difference = 5 - 3; |
-| * | Multiplication     | int product = 5 \* 3;   |
-| / | Division          | int quotient = 5 / 3;   |
-| % | Modulo (remainder) | int remainder = 5 % 3;  |
+| `+` | Addition           | `int sum = 5 + 3;`       |
+| `-` | Subtraction        | `int difference = 5 - 3;` |
+| `*` | Multiplication     | `int product = 5 * 3;`   |
+| `/` | Division          | `int quotient = 5 / 3;`   |
+| `%` | Modulo (remainder) | `int remainder = 5 % 3;`  |
 
 
 ## ![](https://lh5.googleusercontent.com/kiHZIeurpgP80e7XSWAWsf-vb2VP31hJC0kZeXRrZjsyBu3YciBtfL3YMepZWhOZVkflxEsrfE-0LQq__o6i7_31XuSPMumjvqsw5kIeXmRDAVj46n66QCFLoNjp4wG3DK4tfpiDqWstuY0FE_dYvkk)
@@ -87,14 +87,14 @@ Source: <https://en.wikipedia.org/wiki/Java_bytecode> 
 
 ## Examples of Java Data Types
 
-1. byte - used to store small integers, such as the ASCII codes for characters.
-2. int - used to store whole numbers, such as the number of items in a shopping cart.
-3. float - used to store numbers with decimal places, such as the price of an item.
-4. boolean - used to store true or false values, such as whether a user is logged in or not.
-5. char - used to store single characters, such as the first letter of a person's name.
-6. long - used to store large whole numbers, such as the number of milliseconds since January 1, 1970.
-7. double - used to store numbers with decimal places, with a greater range and precision than float.
-8. short - used to store small whole numbers, with a smaller range than int but takes up less memory.
+1. `byte` - used to store small integers, such as the ASCII codes for characters.
+2. `int` - used to store whole numbers, such as the number of items in a shopping cart.
+3. `float` - used to store numbers with decimal places, such as the price of an item.
+4. `boolean` - used to store true or false values, such as whether a user is logged in or not.
+5. `char` - used to store single characters, such as the first letter of a person's name.
+6. `long` - used to store large whole numbers, such as the number of milliseconds since January 1, 1970.
+7. `double` - used to store numbers with decimal places, with a greater range and precision than float.
+8. `short` - used to store small whole numbers, with a smaller range than int but takes up less memory.
 
 ## String
 In Java, a String is a sequence of characters used to represent text. String is a class in Java, which means that it has its own methods and properties that can be used to manipulate and process text data.
