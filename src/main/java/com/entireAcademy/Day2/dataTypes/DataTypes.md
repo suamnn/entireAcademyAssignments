@@ -67,13 +67,15 @@
 
 ## Java Operator Types
 
-| Operator |         Use         |                 Example |
-|----------|:-------------------:|------------------------:|
-| + |      Addition       |        int sum = 5 + 3; |
-| - |     Subtraction     | int difference = 5 - 3; |
-| * |   Multiplication    |   int product = 5 \* 3; |
-| / |      Division       |   int quotient = 5 / 3; |
-| % | Modulo (remainder)  |  int remainder = 5 % 3; |
+|   |                      |                         |
+|---| -------------------- | ----------------------- |
+| Operator | Use               | Example                 |
+| + | Addition           | int sum = 5 + 3;        |
+| - | Subtraction        | int difference = 5 - 3; |
+| * | Multiplication     | int product = 5 \* 3;   |
+| / | Division          | int quotient = 5 / 3;   |
+| % | Modulo (remainder) | int remainder = 5 % 3;  |
+
 
 ## ![](https://lh5.googleusercontent.com/kiHZIeurpgP80e7XSWAWsf-vb2VP31hJC0kZeXRrZjsyBu3YciBtfL3YMepZWhOZVkflxEsrfE-0LQq__o6i7_31XuSPMumjvqsw5kIeXmRDAVj46n66QCFLoNjp4wG3DK4tfpiDqWstuY0FE_dYvkk)
 
