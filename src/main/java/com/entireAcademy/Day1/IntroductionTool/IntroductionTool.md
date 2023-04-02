@@ -88,4 +88,7 @@ For Window please use GIT BASH and for Mac Use Terminal.
 - For window, choose the Community edition and click on download
 - For mac, choose the Community edition and click on download
 
+## Download Java17 on Window
+- Go to this link: [https://www.oracle.com/java/technologies/downloads/#jdk17-windows](https://www.oracle.com/java/technologies/downloads/#jdk17-windows)
+
 #### ***To set up java 17, and how to clone this project we will go over in the Video***
