@@ -84,8 +84,8 @@ carrot symbol ( `^` ).
 ## Examples of Logical Operators
 Example 1:
 ```
-if (x > 0 && y &lt; 10) {
-System.out.println("x is positive and y is less than 10");
+if (x > 0 && y < 10) {
+  System.out.println("x is positive and y is less than 10");
 }
 ```
 
